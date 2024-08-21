@@ -3,3 +3,13 @@ sentence-transformers == 2.2.2
 pinecone-client
 langchain == 0.0.225
 flask
+
+
+"""
+ctransformers: Efficiently runs Transformer models.
+sentence-transformers: Converts text into vectors for tasks like search.
+pinecone-client: Manages and searches vector data.
+langchain: Helps build complex LLM applications.
+flask: Builds web applications and APIs.
+
+"""
